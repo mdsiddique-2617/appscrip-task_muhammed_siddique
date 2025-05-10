@@ -16,6 +16,7 @@ export default function Contact() {
       <h1>Contact Me</h1>
       <p>siddiquedotmax@gmail.com</p>
       <p>+91 63690 28125</p>
+      <a href='https://www.linkedin.com/in/muhammed-siddique-6616042a1/'>Hire me</a>
     </div>
   );
 }
